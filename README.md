@@ -6,3 +6,7 @@ API Used:
 - Google Places API
 - Google Directions API
 - Google Distance Matrix API
+
+## Video Walkthrough
+
+![demo](assets/uber-clone-demo.gif)
